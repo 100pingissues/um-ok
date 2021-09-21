@@ -1,16 +1,34 @@
-### Web Design
+```console
+um-ok@github:~$ ./welcome.sh
+```
 
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]()
+```
+ _____________________________________
+< Sup, Hit me up when all of this is over! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-### Technology Stack
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]()
-[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />]()
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />]()
+<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Image from TryKatChup" /> 
 
-![Here's my github stats](https://github-readme-stats.vercel.app/api?username=um-ok)
+```
+um-ok@github
+-------------------------
+🏫 School doesn't matter when you got skills
+🔎 Hit me up, if you got some work for me to do
+🌟 Main languages: Name it, and I'll code it for you
+🚩 I hack things for pleasure
+```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=um-ok)](https://git.io/streak-stats)
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#917b88" src="https://via.placeholder.com/15/917b88/000000?text=+" width="25" height="20" /><img alt="#fdfef6" src="https://via.placeholder.com/15/fdfef6/000000?text=+" width="25" height="20" /><img alt="#91bebb" src="https://via.placeholder.com/15/91bebb/000000?text=+" width="25" height="20" /><img alt="#feb2bf" src="https://via.placeholder.com/15/feb2bf/000000?text=+" width="25" height="20" /><img alt="#95e3ed" src="https://via.placeholder.com/15/95e3ed/000000?text=+" width="25" height="20" />
+</p>
+
+```console
+trykatchup@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+```
